@@ -1,0 +1,15 @@
+{
+  "name": "react-smartloader",
+  "version": "1.0.0",
+  "description": "React Smartloader for React/Next.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikram - Ud - Daula",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6"
+  }
+}
