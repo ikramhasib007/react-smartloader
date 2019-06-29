@@ -2,11 +2,13 @@
 React Smartloader for React/Next.js applications.
 
 > Props
-`size` default value is 20 <br>
-`position` default value is `center`<br>
-`secondary` default value is  `false`<br>
-`spacingTop` default value is `20px`<br>
-`spacingBottom` default value is `20px`<br>
+
+`size` default value is 20 <br/>
+`position` default value is `center`<br/>
+`secondary` default value is  `false`<br/>
+`spacingTop` default value is `20px`<br/>
+`spacingBottom` default value is `20px`<br/>
+
 
 > Primary color
 ```
