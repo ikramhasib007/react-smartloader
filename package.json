@@ -1,7 +1,7 @@
 {
   "name": "react-smartloader",
   "version": "1.0.0",
-  "description": "React Smartloader for React/Next.js application",
+  "description": "React Smartloader for React/Next.js applications",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
