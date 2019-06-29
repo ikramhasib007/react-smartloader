@@ -1,5 +1,5 @@
-# React Smartloader
-React Smartloader for React/Next.js applications.
+# React Smartloading
+React Smartloading spinner for React/Next.js applications.
 
 > Props
 
